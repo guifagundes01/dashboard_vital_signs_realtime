@@ -9,7 +9,6 @@ Este repositório contém o código-fonte para o dashboard em tempo real desenvo
 - **Python**: Linguagem de programação principal para o desenvolvimento do dashboard.
 - **Dash Framework**: Biblioteca em Python para criar dashboards web interativos.
 - **Plotly**: Biblioteca para criar gráficos interativos.
-- **MQTT**: Protocolo de comunicação para transmissão de dados em tempo real.
 
 ## Funcionalidades
 
